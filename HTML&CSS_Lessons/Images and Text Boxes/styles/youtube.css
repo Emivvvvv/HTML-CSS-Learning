@@ -1,0 +1,100 @@
+.thumbnail{
+    width: 300px;
+}
+
+.search-bar{
+    font-size: 20px;
+}
+
+.first{
+    width: 200px;
+    border-radius: 15px;
+}
+
+.second{
+    width: 200px;
+    object-fit: cover;
+}
+
+.third{
+    width: 200px;
+    border-radius: 100%;
+}
+
+.textbox-rounded{
+    border-width: 1px;
+    border-radius: 5px;
+    padding: 5px;
+    border-color: gainsboro;
+    border-style: solid;
+}
+
+.google-search-box{
+    width: 350px;
+    padding: 10px;
+    padding-left: 15px;
+    border-radius: 30px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: gainsboro;
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.15);
+}
+.linkedln-text{
+    font-family: Arial;
+    color: grey;
+    font-size: 13px;
+}
+.linkedln-email-box{
+    padding: 5px;
+    width: 315px;
+    margin-bottom: 10px;
+}
+.linkedln-agree-join-button{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 13px;
+    border: none;
+    width: 330px;
+    border-radius: 30px;
+    color: white;
+    background-color: rgb(0, 72, 255);
+}
+.twitter-pfp{
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    vertical-align: middle;
+    border-radius: 100%;
+    margin-right: 5px;
+}
+.twitter-text-box{
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    vertical-align: middle;
+    width: 300px;
+}
+
+.tweet-button{
+    border: none;
+    background-color: rgb(2, 158, 255);
+    color: white;
+    border-radius: 20px;
+    height: 36px;
+    width: 76px;
+    cursor: pointer;
+    font-size: 15px;
+    font-weight: bold;
+    transition: box-shadow 0.10s, opacity 0.15s;
+}
+
+.tweet-button:hover {
+    box-shadow: 5px 5px 10px  rgba(0, 0, 0, 0.15);
+}
+
+.tweet-button:active {
+    opacity: 0.7;
+}
+
+.margin-rl{
+    margin: 4px;
+}
