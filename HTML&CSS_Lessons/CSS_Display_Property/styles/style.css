@@ -1,0 +1,159 @@
+.red{
+    background-color: red;
+    height: 50px;
+}
+.green-circle{
+    background-color: green;
+    border-radius: 100%;
+    height: 50px;
+    width: 50px;
+    display: block;
+}
+.satisfied-question-box{
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    padding: 20px;
+    padding-top: 5px;
+    display: inline-block;
+}
+
+.youtube-music{
+    background-color: rgb(49, 49, 49);
+    padding-left: 20px;
+    padding-right: 20px;
+    display: inline-block;kl
+}
+.title{
+    margin-top: 20px;
+    color: white;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.description{
+    width: 400px;
+    margin-top: 0;
+    color: gainsboro;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+}
+.twitter-pfp{
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    vertical-align: middle;
+    border-radius: 100%;
+    margin-right: 5px;
+}
+.twitter-text-box{
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    vertical-align: middle;
+    width: 300px;
+}
+
+.tweet-button{
+    border: none;
+    background-color: rgb(2, 158, 255);
+    color: white;
+    border-radius: 20px;
+    height: 36px;
+    width: 76px;
+    cursor: pointer;
+    font-size: 15px;
+    font-weight: bold;
+    transition: box-shadow 0.10s, opacity 0.15s;
+}
+
+.tweet-button:hover {
+    box-shadow: 5px 5px 10px  rgba(0, 0, 0, 0.15);
+}
+
+.tweet-button:active {
+    opacity: 0.7;
+}
+
+.margin-rl{
+    margin: 4px;
+}
+.tweet{
+    padding: 15px;
+    border-style: solid;
+    border-color: gainsboro;
+    border-radius: 10px;
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.15);
+    display: inline-block;
+}
+.single-person{
+    border-style: solid;
+    border-width: 1px;
+    border-color: gainsboro;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.15);
+    display: inline-block;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+.pfp{
+    width: 170px;
+    height: 170px;
+    object-fit: contain;
+    margin-bottom: 0;
+}
+.username{
+    margin-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+    margin-left: 7px;
+    margin-bottom: 5px;
+}
+.mutual-friends{
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+    font-size: 14px;
+    margin-left: 7px;
+    margin-top: 0;
+}
+.add-friend{
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(49, 133, 236);
+    color: white;
+    padding: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: 7px;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+.google{
+    text-align: center;
+}
+.google-logo{
+    width: 250px;
+}
+.google-search-box{
+    margin-top: 15px;
+    width: 550px;
+    padding: 10px;
+    padding-left: 15px;
+    border-radius: 30px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: gainsboro;
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.15);
+}
+.google-button{
+    margin-top: 30px;
+    margin-left: 10px;
+    border: none;
+    background-color: gainsboro;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 12px;
+    padding-left: 15px;
+    padding-right: 15px;
+    cursor: pointer;
+}
